@@ -1,9 +1,7 @@
 # What
-Project template for .NET Core benchmarking.
+Project template for the [.NET Core benchmarking](https://github.com/dotnet/BenchmarkDotNet) library.
 
-This was made because setting these kinda projects takes time, and i just like to jump to the benchmarking action.
-
-https://github.com/dotnet/BenchmarkDotNet
+This template was made because i just like to jump to the benchmarking action.
 
 # Install
 ```console
