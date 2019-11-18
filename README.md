@@ -11,9 +11,9 @@ git clone git@github.com:vitawebsitedesign/benchmark-template.git
 ```
 
 # Usage
-Open solution in VS2019 & click "Debug > Start Without Debugging" button:
+You can start the benchmarks immediately because this template already comes with 2 example benchmarks.
 
-This project template already comes with 2 example benchmarks.
+Just open solution in VS2019 & click "Debug > Start Without Debugging" button.
 
 # Contributing
 Feel free to open a PR.
